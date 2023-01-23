@@ -8,9 +8,12 @@
 ## Background
 This was the final project for a 9-week intesive Data Science and Machine Learning bootcamp. I pitched the idea, but the team was composed of myself and 3 other people, who's contributions can be seen on each of their working branches. The streamlit deployment was executed by lalianza and guipyc.
 
-vsattamini: 
+vsattamini: https://github.com/vsattamini
+
 LucasGama1207: https://github.com/LucasGama1207
+
 lalianza: https://github.com/lalianza
+
 guipyc: https://github.com/guipyc
 
 
