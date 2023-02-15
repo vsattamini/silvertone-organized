@@ -6,7 +6,7 @@
 - Main objective: Create a model capable of recognizing emotions in audio and deploying the model on an online platform
 
 ## Background
-This was the final project for a 9-week intesive Data Science and Machine Learning bootcamp. I pitched the idea, but the team was composed of myself and 3 other people, who's contributions can be seen on each of their working branches. The streamlit deployment was executed by lalianza and guipyc.
+This was the final project for a 9-week intensive Data Science and Machine Learning bootcamp. I pitched the idea, but the team was composed of myself and 3 other people, who's contributions can be seen on each of their working branches. The streamlit deployment was executed by lalianza and guipyc.
 
 vsattamini: https://github.com/vsattamini
 
